@@ -1,0 +1,24 @@
+{
+  "name": "js-native-blog",
+  "version": "1.0.0",
+  "description": "Project for practice native JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malsevmax/Blog.git"
+  },
+  "keywords": [
+    "js",
+    "blog",
+    "javascript"
+  ],
+  "author": "Malsev Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malsevmax/Blog/issues"
+  },
+  "homepage": "https://github.com/malsevmax/Blog#readme"
+}
