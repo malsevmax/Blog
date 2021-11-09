@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log('Started!')\n\nconst x = 'Hs '\n\nconst newMessage =  () => {\n  console.log(x + 'ssss')\n}\n\nnewMessage()\n\n//# sourceURL=webpack://js-native-blog/./src/index.js?");
+eval("\n\n//# sourceURL=webpack://js-native-blog/./src/index.js?");
 
 /***/ })
 
