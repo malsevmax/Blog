@@ -3,10 +3,9 @@
     [
       "@babel/preset-env",
       {
-        "targets": [
-          "last 5 versions"
-        ]
+        "targets": ["last 5 versions"]
       }
     ]
-  ]
+  ],
+  "plugins": ["@babel/plugin-transform-runtime"]
 }
