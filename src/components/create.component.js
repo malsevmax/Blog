@@ -30,6 +30,6 @@ async function submitHandler(event) {
 
     await apiService.createPost(formData);
     this.form.clear();
-    alert("Новый пост создан!")
+    alert("Created new post!")
   }
 }
